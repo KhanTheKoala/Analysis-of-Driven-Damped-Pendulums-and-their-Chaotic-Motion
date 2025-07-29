@@ -1,11 +1,7 @@
 # Analysis of Driven Damped Pendulums and their Chaotic Motion
 This repository contains my final project for AMATH 271, An Introduction to Theoretical Mechanics.
 
-I contributed towards the abstract, conclusion, state space orbit code, and extension to circuits.
+In this paper we present an analysis of the equations governing the motion of a driven damped pendulum (DDP). A DDP is a pendulum with an element of damping (a loss in the overall energy of the system, often due to air resistance or other dissipative forces) and a sinusoidal driving force (this allows the system to continue its motion.) Not only does this system have non-linear equations of motion, but it is known to exhibit chaotic behaviour for certain parameters, meaning that its motion is not fully predictable. Chaotic systems are highly sensitive to initial conditions, and can produce entirely different results with only small differences. We will discuss techniques used to illustrate chaotic motion with the use of computer simulations, while introducing terminology and graphical representations, such as bifurcation diagrams, state space orbits and time-series plots.
 
-# Course description as per the course outline
+In Summary, this report analyzes an oscillatory system that continues to receive and lose energy with more-or-less random behavior that is highly sensitive to initial parameters.
 
-"The course is an introduction to classical mechanics, including Newtonian mechanics and the formulations of Lagrange and Hamilton. The principles of classical mechanics will be applied to the analysis of projectiles, drag, conservation laws, oscillations, gravity, and others as time permits. The course will also provide an introduction to special relativity. Emphasis will be placed on (1) deriving the equations of motion, which involves making appropriate, physically relevant assumptions and approximations; and (2) analyzing and solving the resulting differential equations. Since these equations are often difficult or impossible to solve analytically, computational tools (e.g. Maple) will be applied when necessary."
-
-# Project description as per the course outline
-"I would like you to investigate a mechanics problem that is not covered in the course. You should select a problem that is richer and more complicated than a typical textbook question. Projects should have a computational component (e.g. using Maple to solve a nonlinear ODE system). Your problem should be complicated/nonlinear but amenable to some analysis: for example, linearization for small oscillations, or have exact solutions for certain initial conditions."
